@@ -1,9 +1,9 @@
 # Site settings
-title: Relief
+title: Ailan's B
 SEOTitle: Ailan's blog| Relief
 header-img: img/post-bg-desk.jpg
 email: ailanshi922@gmail.com
-description: "Every failure is leading towards success."
+description: "Have a Good Day!"
 keyword: "Relief, Ailan, Blog"
 url: "http://ailanshi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
